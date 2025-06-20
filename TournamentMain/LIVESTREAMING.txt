@@ -1,0 +1,13 @@
+# Spectators Data
+SP001, Alice Tan, VIP, 3, Waiting, 09:00
+SP002, Bryan Lee, General, 1, Waiting, 09:05
+SP003, Chloe Lim, Influencer, 2, Waiting, 09:10
+SP004, Ali, VIP, 2, Overflow, 09:10
+SP007, ANLAK, VIP, 3, Waiting, 09:21
+
+# Viewing Slots
+SL01, -, Available
+SL02, -, Available
+SL03, -, Available
+SL04, -, Available
+SL05, -, Available
